@@ -2,7 +2,7 @@
 
 ## Description
 
-An application called Note Taker that can be used to write and save notes.
+A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Install Node.js
 
 ## Usage
 
-This application uses an Express.js back end and will save and retrieve note data from a JSON file
+Interface that makes it easy for non-developers to view and interact with information stored in databases, called content management systems (CMS)
 
 ## Demonstration
 
