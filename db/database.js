@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
 
 connection.connect((err) => {
   if (err) throw err;
-  console.log("Connected to employee database");
+  console.log("Connected to company database");
 });
 
 module.exports = connection;
