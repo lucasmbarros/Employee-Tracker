@@ -11,16 +11,16 @@ VALUES
   ('Swordsman', 500, 2),
   ('MHA Intern', 200, 3),
   ('Number One hero', 0, 3),
-  ('Hokage', 250, 2),
+  ('Hokage', 250, 4),
   ('Akatsuki', 999, 4);
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES
-  ('Trunks', 'Vegeta-Son', 1, 3),
-  ('Vegeta', 'Prince', 2, 1),
-  ('Sanji', 'Lover', 3, null),
-  ('Zoro', 'Roronoa', 4, 3),
-  ('Deku', 'Midoriya', 5, null),
-  ('All', 'Might', 6, 2),
-  ('Naruto', 'Uzumaki', 7, 6),
+  ('Trunks', 'Vegeta-Son', 1, 2),
+  ('Vegeta', 'Prince', 2, null),
+  ('Sanji', 'Lover', 3, 4),
+  ('Zoro', 'Roronoa', 4, null),
+  ('Deku', 'Midoriya', 5, 6),
+  ('All', 'Might', 6, null),
+  ('Naruto', 'Uzumaki', 7, 7),
   ('Itachi', 'Uchiha', 8, null);
