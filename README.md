@@ -17,7 +17,7 @@ A command-line application to manage a company's employee database, using Node.j
 
 Install Node.js
 
-    pending
+    npm install inquirer mysql2 console.table dotenv
 
 ## Usage
 
@@ -25,7 +25,7 @@ Interface that makes it easy for non-developers to view and interact with inform
 
 ## Demonstration
 
-    pending
+    https://drive.google.com/file/d/1spHqFZCudVlDnjfULJG-ZtPPCBIrOILy/view
 
 ## Credits
 
